@@ -1,0 +1,3 @@
+[submodule "tools/PRESTUS_itrusst"]
+	path = tools/PRESTUS_itrusst
+	url = https://github.com/jkosciessa/PRESTUS_itrusst.git
